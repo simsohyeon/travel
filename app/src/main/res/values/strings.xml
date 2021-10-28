@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">트레블메이커</string>
+    <string name="title_home">홈</string>
+    <string name="title_dashboard">내주변</string>
+    <string name="title_notifications">마이페이지</string>
+    <string name="hospital_center">카페</string>
+    <string name="pharmacy">식당</string>
+    <string name="vaccine_center">관광지</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/button_color.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.10056773578072369" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/btn_color.xml" value="0.213768115942029" />
+        <entry key="app/src/main/res/layout/fragment_dashboard.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/fragment_fall.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/fragment_festa.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_spring.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/fragment_suggest.xml" value="0.15307971014492755" />
+        <entry key="app/src/main/res/layout/fragment_summer.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/fragment_theme.xml" value="0.13728470111448834" />
+        <entry key="app/src/main/res/layout/fragment_winter.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/item_around.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/item_hosptial.xml" value="0.1793478260869565" />
+        <entry key="app/src/main/res/layout/login_box.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/mypages_like.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/mypages_not_login.xml" value="0.19202898550724637" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
